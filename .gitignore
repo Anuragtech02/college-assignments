@@ -1,0 +1,3 @@
+//exclude all exe files
+.exe
+/.vscode 
